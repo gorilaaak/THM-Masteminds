@@ -6,14 +6,6 @@ In this CTF we will harden our **Brim** skills by analyzing some malicious pcaps
 
 Three machines in the Finance department at Pfeffer PLC were compromised. We suspect the initial source of the compromise happened through a phishing attempt and by an infected USB drive. The Incident Response team managed to pull the network traffic logs from the endpoints. Use Brim to investigate the network traffic for any indicators of an attack and determine who stands behind the attacks. 
 
-- **Table of Content**
-    
-    [Infection#1](https://www.notion.so/THM-Masterminds-f376c3fcb09647428252257f4e54159d?pvs=21)
-    
-    [Infection#2](https://www.notion.so/THM-Masterminds-f376c3fcb09647428252257f4e54159d?pvs=21)
-    
-    [Infection#3](https://www.notion.so/THM-Masterminds-f376c3fcb09647428252257f4e54159d?pvs=21)
-    
 
 ## Infection 1
 
